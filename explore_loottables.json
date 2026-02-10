@@ -1,0 +1,237 @@
+{
+    "rovennia": [
+        {
+            "ailments": ["Hypothermia", "Broken bone", "Influenza", "Laceration", "Pine flu"],
+            "general": [
+                {
+                    "common": ["Pinecone", "Ice", "Lichen", "Moss", "Heather", "Berries", "Bark", "Tin", "Fool's gold", "Bolete"],
+                    "uncommon": ["Aurora beetle", "Antler", "Singing vole", "Snow owl feather", "Amber"],
+                    "rare": ["Mammoth pieces", "Gold", "Familiar - Kiiruna"],
+                    "special": ["Crystallized snow"]
+                }
+            ],
+            "taiga": [
+                {
+                    "common": ["Pinecone", "Moss", "Heather", "Bark", "Bolete"],
+                    "uncommon": ["Berries", "Antler", "Singing vole"],
+                    "rare": ["Large skull", "Familiar - Kiiruna"],
+                    "special": ["Crystallized snow"]
+                }
+            ],
+            "tundra": [
+                {
+                    "common": ["Ice", "Lichen", "Fool's gold"],
+                    "uncommon": ["Aurora beetle", "Snow owl feather"],
+                    "rare": ["Mammoth pieces", "Familiar - Kiiruna"],
+                    "special": ["Crystallized snow"]
+                }
+            ],
+            "mountains": [
+                {
+                    "common": ["Ice", "Lichen", "Moss", "Tin", "Fool's gold"],
+                    "uncommon": ["Snow owl feather", "Amber"],
+                    "rare": ["Gold", "Familiar - Kiiruna"],
+                    "special": ["Crystallized snow"]
+                }
+            ]
+        }
+    ],
+    "khasenmor": [
+        {
+            "ailments": ["Heatstroke", "Broken bone", "Ticks", "Laceration", "Poisoning"],
+            "general": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion1": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion2": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion3": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ]
+        }
+    ],
+    "meletua": [
+        {
+            "ailments": [],
+            "general": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion1": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion2": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion3": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ]
+        }
+    ],
+    "lagoon": [
+        {
+            "ailments": [],
+            "general": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion1": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion2": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion3": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ]
+        }
+    ],
+    "volcano": [
+        {
+            "ailments": [],
+            "general": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion1": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion2": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion3": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ]
+        }
+    ],
+    "glacier": [
+        {
+            "ailments": ["Hypothermia", "Haunted", "Broken bone", "Influenza"],
+            "general": [
+                {
+                    "common": ["Tin", "Copper", "Ice", "Bones", "Teeth", "Small skull"],
+                    "uncommon": ["Iron", "Antler", "Medium skull", "Albatross feather"],
+                    "rare": ["Large skull", "Large fang", "Gold", "Diamond", "Serpent scale", "Treasure chest", "Familiar - Squetzal"],
+                    "special": ["Crystallized meteorite"]
+                }
+            ],
+            "subregion1": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion2": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ],
+            "subregion3": [
+                {
+                    "common": [],
+                    "uncommon": [],
+                    "rare": [],
+                    "special": []
+                }
+            ]
+        }
+    ],
+    "portallands": [
+        {
+            "ailments": ["Rhyme disease", "Magic parasite", "Brain fog", "Haunted", "Cursed", "Diarrhea"],
+            "general": [
+                {
+                    "common": ["Rune", "Potato", "Ropes and yarn"],
+                    "uncommon": ["Gemstone", "Gold ring", "Beast claw", "Glowing moss", "Pheonix feather"],
+                    "rare": ["Thunder goo", "Star piece", "Treasure chest", "Familiar - Mana", "Familiar - Wyrmlet"],
+                    "special": ["Crystallized bonsai"]
+                }
+            ]
+        }
+    ]
+}
