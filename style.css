@@ -1,7 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 .row {
     display: flex;
 }
 
-.column {
-    flex: 50%;
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 50%;
+    }
 }
